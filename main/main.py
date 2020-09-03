@@ -1,0 +1,3 @@
+from loader.create_weather_history_dataframe import create_single_day_dataframe
+
+create_single_day_dataframe()
